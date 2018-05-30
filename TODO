@@ -1,0 +1,9 @@
+//TODO
+- scrape data
+- save into something easily manipulatable
+    - course, descriptions, prereq, antireq... probably mongoDB
+
+
+//FUTURE EXPANSIONS
+- create web interface for user profiles to save course plans and login
+- find out a way to integrate uwflow?? idk
