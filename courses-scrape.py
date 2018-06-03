@@ -4,27 +4,46 @@ import urllib2
 import pymongo
 
 client = MongoClient('localhost')
-db = courses.cs
-posts = db.posts
+DB = courses.cs
+posts = DB.posts
 
 
 class Post(Document):
     course_name = StringField(required=True)
+    course_id = NumberInt()
     prereq = StringField(required=False)
     antireq = StringField(required=False)
     desc = DateTimeField(required=True)
 
 
 
-url = "http://www.ucalendar.uwaterloo.ca/1819/COURSE/course-CS.html"
+class data():
 
-page = urllib2.urlopen(url)
-soup = BeautifulSoup(page, 'html.parser')
+	def __init__(self):
+		self.url = "http://www.ucalendar.uwaterloo.ca/1819/COURSE/course-CS.html"
+		self.page
+		self.soup
+		self.courses
+		self.db
 
-courses = soup.find_all("a")
-for course in courses:
-	course = re.findall('"([^"]+)"', str(course))
-	if "CS" in course:
+	def browse(self):
+
+	def scrape(self):
+		self.page = urllib2.urlopen(url)
+		self.soup = BeautifulSoup(page, 'html.parser').find_all(True)
+
+		for drop in self.soup
+
+		self.courses = soup.find_all("a")
+
+		for course in self.courses:
+			course = re.findall('"([^"]+)"', str(course))
+			if "CS" in course:
+
+
+	def initDB(self):
+
+
 
 
 
