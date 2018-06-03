@@ -52,3 +52,6 @@ def lxmlScrape:
 	f = open(path + "\\fhsu_payroll_data.json","w") #FHSU
 	f.write(json_records)
 	f.close()
+
+
+
