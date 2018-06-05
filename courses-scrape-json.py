@@ -7,4 +7,6 @@ res = requests.get("http://www.ucalendar.uwaterloo.ca/1819/COURSE/course-CS.html
 soup = BeautifulSoup(res.content,'lxml')
 table = soup.find_all('table')
 df = pd.read_html(str(table))
-print(df)
+
+with open("cs-courses.txt", "w") as file:
+	file.write(str(df))

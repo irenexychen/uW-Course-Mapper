@@ -1,0 +1,426 @@
+[                                                   0  \
+0  \n\n\n\r\nC O M P U T E R \xa0 S C I E N C E\x...   
+1   \n\r\nC O M P U T E R \xa0 S C I E N C E\xa0\r\n   
+
+                                                  1  
+0  \n\r\nC O M P U T E R \xa0 S C I E N C E\xa0\r\n  
+1                                               NaN  ,                                                   0
+0  \n\r\nC O M P U T E R \xa0 S C I E N C E\xa0\r\n,                                                   0
+0  \n\r\nC O M P U T E R \xa0 S C I E N C E\xa0\r\n,                                                    0                  1
+0                                    CS 100 LEC 0.50  Course ID: 004360
+1     Introduction to Computing through Applications                NaN
+2  Using personal computers as effective problem ...                NaN
+3  Prereq: Not open to Mathematics,Biomedical,Che...                NaN
+4  Antireq: All second,third or fourth year CS co...                NaN
+5                                Only offered Online                NaN,                                                    0                  1
+0                            CS 105 LAB,LEC,TST 0.50  Course ID: 015054
+1             Introduction to Computer Programming 1                NaN
+2  An introduction to the fundamentals of compute...                NaN
+3          Prereq: Not open to Mathematics students.                NaN
+4  Antireq: BME 121, CS 115, 135, 137, 145, CHE 1...                NaN,                                                    0                  1
+0                            CS 106 LAB,LEC,TST 0.50  Course ID: 015055
+1             Introduction to Computer Programming 2                NaN
+2  A continuation of the introduction to computer...                NaN
+3  Prereq: CS 105; Not open to Mathematics students.                NaN
+4  Antireq: BME 121, CS 115, 135, 137, 145, CHE 1...                NaN,                                                    0                  1
+0                        CS 115 LAB,LEC,TST,TUT 0.50  Course ID: 012765
+1                 Introduction to Computer Science 1                NaN
+2  An introduction to the fundamentals of compute...                NaN
+3           [Note: See Note 2 above. Offered: F,W,S]                NaN
+4  Antireq: BME 121, CS 135, 137, 138, 145, CHE 1...                NaN,                                                    0                  1
+0                        CS 116 LAB,LEC,TST,TUT 0.50  Course ID: 012766
+1                 Introduction to Computer Science 2                NaN
+2  This course builds on the techniques and patte...                NaN
+3                      Prereq: CS 115 or 135 or 145.                NaN
+4           Antireq: CS 136, 137, 138, 146, PHYS 239                NaN,                                                    0                  1
+0                        CS 135 LAB,LEC,TST,TUT 0.50  Course ID: 012040
+1                      Designing Functional Programs                NaN
+2  An introduction to the fundamentals of compute...                NaN
+3             [Note: See Note 2 above. Offered: F,W]                NaN
+4  Antireq: BME 121, CS 115, 137, 138, 145, CHE 1...                NaN,                                                    0                  1
+0                        CS 136 LAB,LEC,TST,TUT 0.50  Course ID: 012041
+1   Elementary Algorithm Design and Data Abstraction                NaN
+2  This course builds on the techniques and patte...                NaN
+3           [Note: See Note 2 above. Offered: F,W,S]                NaN
+4  Prereq: At least 90% in CS 115 or at least 70%...                NaN
+5                Antireq: CS 137, 138, 146, PHYS 239                NaN,                                                    0                  1
+0                        CS 137 LAB,LEC,TST,TUT 0.50  Course ID: 012886
+1                             Programming Principles                NaN
+2  Review of fundamental programming concepts and...                NaN
+3         Prereq: Software Engineering students only                NaN,                                                    0                  1
+0                        CS 138 LAB,LEC,TST,TUT 0.50  Course ID: 012887
+1  Introduction to Data Abstraction and Implement...                NaN
+2  Software abstractions via elementary data stru...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4                                     Prereq: CS 137                NaN,                                                    0                  1
+0                        CS 145 LAB,LEC,TST,TUT 0.50  Course ID: 012767
+1     Designing Functional Programs (Advanced Level)                NaN
+2     CS 145 is an advanced-level version of CS 135.                NaN
+3  [Note: See Note 2 above. This course may be su...                NaN
+4                        Department Consent Required                NaN
+5                     Antireq: CS 115, 135, 137, 138                NaN,                                                    0                  1
+0                        CS 146 LAB,LEC,TST,TUT 0.50  Course ID: 013657
+1  Elementary Algorithm Design and Data Abstracti...                NaN
+2     CS 146 is an advanced-level version of CS 136.                NaN
+3  [Note: See Note 2 above. This course may be su...                NaN
+4       Prereq: CS 145 with a grade of at least 75%.                NaN
+5                    Antireq: CS 116, 136, 137, 138.                NaN,                                                    0                  1
+0                            CS 200 LAB,LEC,TST 0.50  Course ID: 004372
+1               Concepts for Advanced Computer Usage                NaN
+2  Important concepts underlying major personal c...                NaN
+3      Prereq: Not open to Computer Science students                NaN,                                                    0                  1
+0                        CS 230 LAB,LEC,TST,TUT 0.50  Course ID: 004374
+1     Introduction to Computers and Computer Systems                NaN
+2  Basic computer architecture, organization, sys...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: One of CS 116, 136, 138, 146; Not open...                NaN
+5            Antireq: BME 292, CS 241, 251, SYDE 192                NaN,                                                    0                  1
+0                        CS 231 LAB,LEC,TST,TUT 0.50  Course ID: 015400
+1                        Algorithmic Problem Solving                NaN
+2  The study of the steps required to solve real-...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: One of CS 116, 136, 138, 146; Not open...                NaN
+5  Antireq: BME 122, CS 341, ECE 250, MSCI 240, M...                NaN,                                                    0                  1
+0                            CS 234 LAB,LEC,TST 0.50  Course ID: 004375
+1                          Data Types and Structures                NaN
+2  Top-down design of data structures. Using repr...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: One of CS 116, 136, 138, 146; Not open...                NaN
+5  Antireq: BME 122, CS 240, ECE 250, MSCI 240, M...                NaN,                                                    0                  1
+0                        CS 240 LAB,LEC,TST,TUT 0.50  Course ID: 004377
+1                Data Structures and Data Management                NaN
+2  Introduction to widely used and effective meth...                NaN
+3  [Note: Enrolment is restricted; see Note 1 abo...                NaN
+4  Prereq: (CS 245 or SE 212), (one of CS 241, 24...                NaN
+5  Antireq: BME 122, CS 234, ECE 250, MSCI 240, M...                NaN,                                                    0                  1
+0                       CS 240E LAB,LEC,TST,TUT 0.50  Course ID: 015405
+1     Data Structures and Data Management (Enriched)                NaN
+2                        Enriched version of CS 240.                NaN
+3  [Note: See notes 1 and 9 above. CS 240E may be...                NaN
+4  Prereq: (A grade of 85% or higher in one of CS...                NaN
+5                           Antireq: CS 234, ECE 250                NaN,                                                    0                  1
+0                        CS 241 LAB,LEC,TST,TUT 0.50  Course ID: 004378
+1                 Foundations of Sequential Programs                NaN
+2  The relationship between high-level languages ...                NaN
+3  [Note: Enrolment is restricted; see Note 1 abo...                NaN
+4  Prereq: (CS 138 or 246) or (a grade of 85% or ...                NaN
+5                           Antireq: CS 230, ECE 351                NaN,                                                    0                  1
+0                       CS 241E LAB,LEC,TST,TUT 0.50  Course ID: 015406
+1      Foundations of Sequential Programs (Enriched)                NaN
+2                        Enriched version of CS 241.                NaN
+3  [Note: See notes 2 and 9 above. CS 241E may be...                NaN
+4  Prereq: A grade of 85% or higher in one of CS ...                NaN
+5                          Antireq: CS 230, GENE 344                NaN,                                                    0                  1
+0                            CS 245 LEC,TST,TUT 0.50  Course ID: 011405
+1                              Logic and Computation                NaN
+2  Propositional and predicate logic. Soundness a...                NaN
+3  [Note: Enrolment is restricted; see Note 1 abo...                NaN
+4  Prereq: (One of CS 136, 138, 146), MATH 135; H...                NaN
+5                         Antireq: PMATH 330, SE 212                NaN,                                                    0                  1
+0                           CS 245E LEC,TST,TUT 0.50  Course ID: 015407
+1                   Logic and Computation (Enriched)                NaN
+2                        Enriched version of CS 245.                NaN
+3  [Note: See notes 1 and 9 above. CS 245E may be...                NaN
+4  Prereq: A grade of 85% or higher in one of CS ...                NaN
+5                                  Antireq: SYDE 322                NaN,                                                    0                  1
+0                        CS 246 LAB,LEC,TST,TUT 0.50  Course ID: 004380
+1               Object-Oriented Software Development                NaN
+2  Introduction to object-oriented programming an...                NaN
+3  [Note: Enrolment is restricted; see Note 1 abo...                NaN
+4  Prereq: CS 146 or a grade of 60% or higher in ...                NaN
+5                Antireq: CS 247, MSCI 342, SYDE 322                NaN,                                                    0                  1
+0                       CS 246E LAB,LEC,TST,TUT 0.50  Course ID: 015408
+1    Object-Oriented Software Development (Enriched)                NaN
+2                        Enriched version of CS 246.                NaN
+3  [Note: See notes 1 and 9 above. CS 246E may be...                NaN
+4  Prereq: A grade of 85% or higher in one of CS ...                NaN
+5                                  Antireq: SYDE 322                NaN,                                                    0                  1
+0                        CS 247 LAB,LEC,TST,TUT 0.50  Course ID: 013805
+1                    Software Engineering Principles                NaN
+2  Systematic methods for designing, coding, test...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: CS 241; Software Engineering students ...                NaN
+5                Antireq: CS 246, MSCI 342, SYDE 322                NaN,                                                    0                  1
+0                            CS 251 LAB,LEC,TST 0.50  Course ID: 004382
+1                   Computer Organization and Design                NaN
+2  Overview of computer organization and performa...                NaN
+3  [Note: Students enrolled in CS/DHW should enro...                NaN
+4  Prereq: One of CS 136, 138, 146; Computer Scie...                NaN
+5  Antireq: BME 292, ECE 222, ME 262, MTE 262, SY...                NaN,                                                    0                  1
+0                                CS 330 LEC,TST 0.50  Course ID: 004385
+1                     Management Information Systems                NaN
+2  An introduction to information systems and the...                NaN
+3  Prereq: One of CS 106, 116, 136, 138, 146; Lev...                NaN
+4  Antireq: AFM 241, BUS 415W, 486W, CS 480/490,\...                NaN,                                                    0                  1
+0                                CS 335 LEC,TST 0.50  Course ID: 013658
+1      Computational Methods in Business and Finance                NaN
+2  An introduction to numerical methods for busin...                NaN
+3  Prereq: (One of CS 116, 136, 138, 146); MATH 1...                NaN
+4        Antireq: AMATH 242/ CS 371, CS 370, MTE 204                NaN,                                                    0                  1
+0                                CS 338 LAB,LEC 0.50  Course ID: 004390
+1       Computer Applications in Business: Databases                NaN
+2  A user-oriented approach to the management of ...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: One of CS 230, 231, 234, 246, 330; Not...                NaN
+5            Antireq: CS 348, 448, ECE 456, MSCI 346                NaN,                                                    0                  1
+0                            CS 341 LAB,LEC,TST 0.50  Course ID: 004392
+1                                         Algorithms                NaN
+2  The study of efficient algorithms and effectiv...                NaN
+3  [Note: Enrolment is restricted; see Note 1 abo...                NaN
+4  Prereq: CS 240 and (MATH 239 or 249); Computer...                NaN
+5                           Antireq: CS 231, ECE 406                NaN,                                                    0                  1
+0                            CS 343 LAB,LEC,TST 0.50  Course ID: 011417
+1                Concurrent and Parallel Programming                NaN
+2  An introduction to concurrent and parallel pro...                NaN
+3  [Note: Enrolment is restricted; see Note 1 abo...                NaN
+4  Prereq: CS 350 or SE 350; Computer Science stu...                NaN
+5                                   Antireq: MTE 241                NaN,                                                    0                  1
+0                            CS 348 LAB,LEC,TST 0.50  Course ID: 004417
+1                Introduction to Database Management                NaN
+2  The main objective of this course is to introd...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: CS 240; Computer Science and BMath (Da...                NaN
+5            Antireq: CS 338, ECE 356, 456, MSCI 346                NaN,                                                    0                  1
+0                            CS 349 LAB,LEC,TST 0.50  Course ID: 011727
+1                                    User Interfaces                NaN
+2  An introduction to contemporary user interface...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: CS 241 and (one of MATH 115, 136, 146)...                NaN,                                                    0                  1
+0                            CS 350 LAB,LEC,TST 0.50  Course ID: 011416
+1                                  Operating Systems                NaN
+2  An introduction to the fundamentals of operati...                NaN
+3  [Note: Enrolment is restricted; see Note 1 abo...                NaN
+4  Prereq: CS 240, 241, 246, (CS 251 or ECE 222);...                NaN
+5                  Antireq: ECE 254, MTE 241, SE 350                NaN,                                                    0                  1
+0                                    CS 360 LEC 0.50  Course ID: 004398
+1            Introduction to the Theory of Computing                NaN
+2  Models of computers including finite automata ...                NaN
+3  [Note: Enrolment is restricted; see Note 1 abo...                NaN
+4  Prereq: CS 240, 241 and (MATH 239 or 249); Com...                NaN
+5                                    Antireq: CS 365                NaN,                                                    0                  1
+0                                CS 365 LAB,LEC 0.50  Course ID: 011347
+1                              Models of Computation                NaN
+2  Finite automata and regular expressions. Pushd...                NaN
+3  [Note: CS 365 may be substituted for CS 360 in...                NaN
+4  Prereq: CS 240, 241 and (MATH 239 or 249); Com...                NaN
+5                                    Antireq: CS 360                NaN,                                                    0                  1
+0                            CS 370 LAB,LEC,TST 0.50  Course ID: 004400
+1                              Numerical Computation                NaN
+2  Principles and practices of basic numerical co...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: (One of MATH 118, 119, 128, 138, 148),...                NaN
+5         Antireq: AMATH 242/CS 371, CS 335, MTE 204                NaN,                                                    0                  1
+0                                CS 371 LAB,LEC 0.50  Course ID: 011363
+1          Introduction to Computational Mathematics                NaN
+2  A rigorous introduction to the field of comput...                NaN
+3  [Note: This course may be substituted for CS 3...                NaN
+4  Prereq: (One of CS 116, 136, 138, 146), MATH 2...                NaN
+5                      Antireq: CS 335, 370, MTE 204                NaN
+6                      (Cross-listed with AMATH 242)                NaN,                                                    0                  1
+0                                    CS 383 STU 0.50  Course ID: 015143
+1                   Computational Digital Art Studio                NaN
+2  An upper-level studio course to create computa...                NaN
+3                      Prereq: CS 240, FINE 229, 257                NaN
+4                       (Cross-listed with FINE 383)                NaN,                                                    0                  1
+0                                    CS 398 LEC 0.50  Course ID: 011409
+1                         Topics in Computer Science                NaN
+2  See the Course Offerings List for topics avail...                NaN
+3  Prereq: CS 240 and (CS 246 or 247); Computer S...                NaN,                                                    0                  1
+0                                    CS 399 RDG 0.50  Course ID: 011410
+1                       Readings in Computer Science                NaN
+2     Reading course as announced by the department.                NaN
+3  Prereq: CS 240 and (CS 246 or 247); Computer S...                NaN,                                                    0                  1
+0                                CS 430 LEC,TST 0.50  Course ID: 004404
+1                  Applications Software Engineering                NaN
+2  An investigation into the role and function of...                NaN
+3  Prereq: CS 330; Level at least 3A; Not open to...                NaN
+4                    Antireq: CS 446/ECE 452, SE 464                NaN,                                                    0                  1
+0                                    CS 431 LEC 0.50  Course ID: 015547
+1               Data-Intensive Distributed Analytics                NaN
+2  Introduces non-CS major students to infrastruc...                NaN
+3  Prereq: (CS 231 or 234 or 341) and (CS 251 or ...                NaN
+4                                    Antireq: CS 451                NaN,                                                    0                  1
+0                                CS 432 LEC,TST 0.50  Course ID: 004405
+1                          Business Systems Analysis                NaN
+2  Survey of organization and management theory. ...                NaN
+3  Prereq: CS 330; Level at least 3A; Not open to...                NaN
+4  Antireq: AFM 341, CS 445/ECE 451, MSCI 444, SE...                NaN,                                                    0                  1
+0                            CS 436 LAB,LEC,TST 0.50  Course ID: 004407
+1          Networks and Distributed Computer Systems                NaN
+2  An introduction to networks, protocols, and di...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: One of CS 230, 241, 246, 251; Not open...                NaN
+5                 Antireq: CS 454, 456, ECE 428, 454                NaN,                                                    0                  1
+0                            CS 442 LAB,LEC,TST 0.50  Course ID: 004410
+1                Principles of Programming Languages                NaN
+2  An exposure to important concepts and issues i...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4     Prereq: CS 240; Computer Science students only                NaN,                                                    0                  1
+0                            CS 444 LAB,LEC,TST 0.50  Course ID: 004412
+1                              Compiler Construction                NaN
+2  Phases of compilation. Lexical analysis and a ...                NaN
+3  [Note: This course involves project work. Offe...                NaN
+4  Prereq: CS 350 or SE 350; Computer Science stu...                NaN,                                                    0                  1
+0                        CS 445 LAB,LEC,TST,TUT 0.50  Course ID: 004413
+1   Software Requirements Specification and Analysis                NaN
+2  Introduces students to the requirements defini...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4    Prereq: CS 350; Computer Science students only.                NaN
+5                                    Antireq: SE 463                NaN
+6                        (Cross-listed with ECE 451)                NaN,                                                    0                  1
+0                        CS 446 LAB,LEC,TST,TUT 0.50  Course ID: 004414
+1                  Software Design and Architectures                NaN
+2  Introduces students to the design, implementat...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4    Prereq: CS 350; Computer Science students only.                NaN
+5                            Antireq: CS 430, SE 464                NaN
+6                        (Cross-listed with ECE 452)                NaN,                                                    0                  1
+0                        CS 447 LAB,LEC,TST,TUT 0.50  Course ID: 004416
+1  Software Testing, Quality Assurance and Mainte...                NaN
+2  Introduces students to systematic testing of s...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4    Prereq: CS 350; Computer Science students only.                NaN
+5                                    Antireq: SE 465                NaN
+6                        (Cross-listed with ECE 453)                NaN,                                                    0                  1
+0                            CS 448 LAB,LEC,TST 0.50  Course ID: 012300
+1                    Database Systems Implementation                NaN
+2  The objective of this course is to introduce s...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: CS 348 and (CS 350 or SE 350); Compute...                NaN,                                                    0                  1
+0                            CS 449 LAB,LEC,TST 0.50  Course ID: 013910
+1                         Human-Computer Interaction                NaN
+2  An introduction to the fundamental theories, m...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: CS 240, 241; Level at least 3B; Comput...                NaN
+5                                  Antireq: SYDE 348                NaN,                                                    0                  1
+0                            CS 450 LAB,LEC,TST 0.50  Course ID: 004418
+1                              Computer Architecture                NaN
+2  The course is intended to provide the student ...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: (CS 245 or SE 212) and (CS 350 or SE 3...                NaN
+5                                   Antireq: ECE 429                NaN,                                                    0                  1
+0                                CS 451 LEC,TST 0.50  Course ID: 015315
+1               Data-Intensive Distributed Computing                NaN
+2  Introduces students to infrastructure for data...                NaN
+3  Prereq: CS 341, 348 and (CS 350 or SE 350); Co...                NaN,                                                    0                  1
+0                            CS 452 LAB,LEC,TST 0.50  Course ID: 004419
+1                              Real-time Programming                NaN
+2  Intended to give students experience with tool...                NaN
+3  [Note: This course involves project work. Offe...                NaN
+4  Prereq: CS 350 or SE 350; Computer Science stu...                NaN,                                                    0                  1
+0                            CS 454 LAB,LEC,TST 0.50  Course ID: 004420
+1                                Distributed Systems                NaN
+2  An introduction to distributed systems, emphas...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: CS 350 or SE 350; Computer Science stu...                NaN
+5                                   Antireq: ECE 454                NaN,                                                    0                  1
+0                            CS 456 LAB,LEC,TST 0.50  Course ID: 010167
+1                                  Computer Networks                NaN
+2  An introduction to network architectures and p...                NaN
+3    Prereq: CS 350; Computer Science students only.                NaN
+4                      Antireq: CS 436, ECE 358, 428                NaN,                                                    0                  1
+0                            CS 457 LAB,LEC,TST 0.50  Course ID: 004422
+1                      System Performance Evaluation                NaN
+2  Basic techniques of system performance evaluat...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: (CS 246 or 247) and (one of STAT 206, ...                NaN,                                                    0                  1
+0                            CS 458 LAB,LEC,TST 0.50  Course ID: 012980
+1                      Computer Security and Privacy                NaN
+2  Security and privacy issues in various aspects...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: CS 350 or SE 350. Computer Science stu...                NaN
+5                                   Antireq: ECE 458                NaN,                                                    0                  1
+0                                CS 462 LEC,TST 0.50  Course ID: 004424
+1                       Formal Languages and Parsing                NaN
+2  Languages and their representations. Grammars ...                NaN
+3  Prereq: CS 360 or 365; Computer Science studen...                NaN,                                                    0                  1
+0                                CS 466 LEC,TST 0.50  Course ID: 004426
+1                      Algorithm Design and Analysis                NaN
+2  Algorithmic approaches and methods of assessme...                NaN
+3     Prereq: CS 341; Computer Science students only                NaN,                                                    0                  1
+0                                CS 467 LEC,TST 0.50  Course ID: 011497
+1     Introduction to Quantum Information Processing                NaN
+2  Basics of computational complexity; basics of ...                NaN
+3  Prereq: One of MATH 114, 115, 235, 245; Level ...                NaN
+4               (Cross-listed with CO 481, PHYS 467)                NaN,                                                    0                  1
+0                            CS 475 LAB,LEC,TST 0.50  Course ID: 011444
+1                       Computational Linear Algebra                NaN
+2  Basic concepts and implementation of numerical...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4                Prereq: AMATH 242/CS 371 or CS 370.                NaN
+5                               Antireq: CS 372, 472                NaN,                                                    0                  1
+0                            CS 476 LAB,LEC,TST 0.50  Course ID: 003352
+1         Numeric Computation for Financial Modeling                NaN
+2  The interaction of financial models, numerical...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: (AMATH 242/CS 371 or CS 370) and STAT ...                NaN,                                                    0                  1
+0                            CS 480 LAB,LEC,TST 0.50  Course ID: 015515
+1                   Introduction to Machine Learning                NaN
+2  Introduction to modeling and algorithmic techn...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: CS 341 and (STAT 206 or 231 or 241); C...                NaN,                                                    0                  1
+0                            CS 482 LEC,TST,TUT 0.50  Course ID: 004434
+1  Computational Techniques in Biological Sequenc...                NaN
+2  Computer science principles and algorithms in ...                NaN
+3  Prereq: CS 341, STAT 241 or at least 60% in ST...                NaN,                                                    0                  1
+0                            CS 484 LAB,LEC,TST 0.50  Course ID: 013912
+1                               Computational Vision                NaN
+2  Introduction to image and vision understanding...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: (AMATH 242/CS 371 or CS 370) and STAT ...                NaN,                                                    0                  1
+0                                CS 485 LEC,TST 0.50  Course ID: 013911
+1  Statistical and Computational Foundations of M...                NaN
+2  Extracting meaningful patterns from random sam...                NaN
+3  Prereq: CS 341 and (STAT 206 or 230 or 240); C...                NaN,                                                    0                  1
+0                            CS 486 LAB,LEC,TST 0.50  Course ID: 004435
+1            Introduction to Artificial Intelligence                NaN
+2  Goals and methods of artificial intelligence. ...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: CS 341 or SE 240; Computer Science and...                NaN
+5                     Coreq: STAT 206 or 231 or 241.                NaN,                                                    0                  1
+0                            CS 487 LAB,LEC,TST 0.50  Course ID: 004436
+1               Introduction to Symbolic Computation                NaN
+2  An introduction to the use of computers for sy...                NaN
+3  [Note: Lab is not scheduled and students are e...                NaN
+4  Prereq: CS 231 or 234 or 240; Honours Mathemat...                NaN,                                                    0                  1
+0                            CS 488 LAB,LEC,TST 0.50  Course ID: 004437
+1                  Introduction to Computer Graphics                NaN
+2  Software and hardware for interactive computer...                NaN
+3  [Note: This course involves project work. Offe...                NaN
+4  Prereq: (CS 341 or SE 240) and (CS 350 or SE 3...                NaN,                                                    0                  1
+0                                CS 489 LEC,TUT 0.50  Course ID: 010044
+1                Advanced Topics in Computer Science                NaN
+2  See the Course Offerings List for topics avail...                NaN
+3  Prereq: Level at least 3B; Computer Science st...                NaN,                                                    0                  1
+0                                CS 490 LEC,TST 0.50  Course ID: 004433
+1                     Information Systems Management                NaN
+2  The integration of business and technical cons...                NaN
+3  Prereq: CS 350 or SE 350; Computer Science stu...                NaN
+4                           Antireq: BUS\n415W, 486W                NaN,                                                    0                  1
+0                                CS 492 LEC,TST 0.50  Course ID: 004438
+1               The Social Implications of Computing                NaN
+2  This course is designed to consider the proble...                NaN
+3     Prereq: CS 240; Computer Science students only                NaN,                                                    0                  1
+0                                CS 493 LEC,PRJ 0.50  Course ID: 015545
+1                                     Team Project 1                NaN
+2  Students work in teams on substantial open-end...                NaN
+3  Prereq: CS 341, 350; Computer Science students...                NaN,                                                    0                  1
+0                                CS 494 LEC,PRJ 0.50  Course ID: 015546
+1                                     Team Project 2                NaN
+2  Continuing from CS 493, student teams continue...                NaN
+3  Prereq: CS 493; Computer Science students only...                NaN,                                                    0                  1
+0                                    CS 497 LEC 0.50  Course ID: 012280
+1      Multidisciplinary Studies in Computer Science                NaN
+2  See the Course Offerings list for topics avail...                NaN
+3  Prereq: Level at least 3B; Computer Science st...                NaN,                                                    0                  1
+0                                   CS 499R RDG 0.50  Course ID: 004444
+1                       Readings in Computer Science                NaN
+2     Reading course as announced by the department.                NaN
+3                        Department Consent Required                NaN
+4  Prereq: Level at least 3B; Computer Science st...                NaN,                                                    0                  1
+0                                   CS 499T PRJ 0.50  Course ID: 012560
+1                                     Honours Thesis                NaN
+2  The student will undertake new analysis, synth...                NaN
+3  [Note: Offered for CR/NCR only. CS 499R is rec...                NaN
+4                        Department Consent Required                NaN
+5             Prereq: Computer Science students only                NaN]
