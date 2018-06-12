@@ -4,6 +4,19 @@
     - course, descriptions, prereq, antireq... probably mongoDB
 
 
+//DATABASE FORMAT
+database of courses
+Collection = faculty i.e. cs
+Document/Post = course
+
+Post = {
+    course_name
+    course_id
+    prereq
+    antireq
+    desc
+   }
+
 //FUTURE EXPANSIONS
 - create web interface for user profiles to save course plans and login
 - find out a way to integrate uwflow?? idk
