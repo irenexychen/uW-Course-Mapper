@@ -1,11 +1,13 @@
 from bs4 import BeautifulSoup
 import re
-import urllib2
-import pymongo
+import urllib3
+from pymongo import MongoClient
 
-client = MongoClient('localhost')
-DB = courses.cs
-posts = DB.posts
+
+client = MongoClient('localhost', 27071)
+collection = client.courses
+posts = collection.posts
+
 
 
 class Post(Document):
@@ -26,10 +28,8 @@ class data():
 		self.courses
 		self.db
 
-	def browse(self):
-
 	def scrape(self):
-		self.page = urllib2.urlopen(url)
+		self.page = urllib3.urlopen(url)
 		self.soup = BeautifulSoup(page, 'html.parser').find_all(True)
 
 		for drop in self.soup
@@ -40,8 +40,14 @@ class data():
 			course = re.findall('"([^"]+)"', str(course))
 			if "CS" in course:
 
+    #fill
 
-	def initDB(self):
+
+
+
+data.scrape()
+
+
 
 
 
